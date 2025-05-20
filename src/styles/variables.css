@@ -1,0 +1,39 @@
+:root {
+  /* Primary Colors */
+  --primary-blue: #0066cc;
+  --primary-dark: #004999;
+  --primary-light: #3399ff;
+  
+  /* Secondary Colors */
+  --secondary-gray: #e8f0f8;  /* Light grey-blue */
+  --secondary-dark: #2c3e50;
+  --secondary-light: #f5f9fc;  /* Lighter grey-blue */
+  
+  /* Accent Colors */
+  --accent-teal: #00b3b3;
+  --accent-purple: #6b46c1;
+  
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, #0066cc 0%, #3399ff 100%);
+  --gradient-secondary: linear-gradient(135deg, var(--secondary-gray) 0%, var(--secondary-light) 100%);
+  --gradient-accent: linear-gradient(135deg, #00b3b3 0%, #6b46c1 100%);
+  
+  /* Text Colors */
+  --text-primary: #2c3e50;
+  --text-secondary: #4a5568;
+  --text-light: #ffffff;
+  
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+  
+  /* Button Colors */
+  --button-primary: var(--gradient-primary);
+  --button-secondary: var(--gradient-accent);
+  --button-hover: rgba(0, 102, 204, 0.9);
+  --button-shadow: rgba(0, 102, 204, 0.2);
+  --button-glow: rgba(255, 255, 255, 0.2);
+} 
