@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlyus/static/css/main.c8877537.css",
+    "main.js": "/onlyus/static/js/main.f004ba13.js",
+    "index.html": "/onlyus/index.html",
+    "main.c8877537.css.map": "/onlyus/static/css/main.c8877537.css.map",
+    "main.f004ba13.js.map": "/onlyus/static/js/main.f004ba13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8877537.css",
+    "static/js/main.f004ba13.js"
+  ]
+}
