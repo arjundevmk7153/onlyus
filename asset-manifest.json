@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/onlyus/static/css/main.c8877537.css",
-    "main.js": "/onlyus/static/js/main.519f7398.js",
+    "main.js": "/onlyus/static/js/main.1eb0c382.js",
     "index.html": "/onlyus/index.html",
     "main.c8877537.css.map": "/onlyus/static/css/main.c8877537.css.map",
-    "main.519f7398.js.map": "/onlyus/static/js/main.519f7398.js.map"
+    "main.1eb0c382.js.map": "/onlyus/static/js/main.1eb0c382.js.map"
   },
   "entrypoints": [
     "static/css/main.c8877537.css",
-    "static/js/main.519f7398.js"
+    "static/js/main.1eb0c382.js"
   ]
 }
